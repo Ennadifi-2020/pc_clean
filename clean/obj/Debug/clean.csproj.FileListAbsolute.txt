@@ -1,0 +1,15 @@
+C:\Users\Youcode\Desktop\clean\bin\Debug\clean.exe.config
+C:\Users\Youcode\Desktop\clean\bin\Debug\clean.exe
+C:\Users\Youcode\Desktop\clean\bin\Debug\clean.pdb
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\clean\obj\Debug\MainWindow.g.cs
+C:\Users\Youcode\Desktop\clean\obj\Debug\App.g.cs
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean_MarkupCompile.cache
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean_MarkupCompile.lref
+C:\Users\Youcode\Desktop\clean\obj\Debug\MainWindow.baml
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean.g.resources
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean.Properties.Resources.resources
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean.exe
+C:\Users\Youcode\Desktop\clean\obj\Debug\clean.pdb

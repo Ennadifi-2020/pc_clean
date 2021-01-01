@@ -1,0 +1,14 @@
+C:\Users\Youcode\Desktop\Update\bin\Release\Update.exe.config
+C:\Users\Youcode\Desktop\Update\bin\Release\Update.exe
+C:\Users\Youcode\Desktop\Update\bin\Release\Update.pdb
+C:\Users\Youcode\Desktop\Update\obj\Release\MainWindow.g.cs
+C:\Users\Youcode\Desktop\Update\obj\Release\App.g.cs
+C:\Users\Youcode\Desktop\Update\obj\Release\Update_MarkupCompile.cache
+C:\Users\Youcode\Desktop\Update\obj\Release\Update_MarkupCompile.lref
+C:\Users\Youcode\Desktop\Update\obj\Release\MainWindow.baml
+C:\Users\Youcode\Desktop\Update\obj\Release\Update.g.resources
+C:\Users\Youcode\Desktop\Update\obj\Release\Update.Properties.Resources.resources
+C:\Users\Youcode\Desktop\Update\obj\Release\Update.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\Update\obj\Release\Update.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\Update\obj\Release\Update.exe
+C:\Users\Youcode\Desktop\Update\obj\Release\Update.pdb
